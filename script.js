@@ -2,7 +2,7 @@
 //variables
 var flickApiUrl= "https://api.flickr.com/services/feeds/photos_public.gne?jsoncallback=?";
 
-var flickApiUrl2="https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=6e7e169c9890dd483c8b55ec4a4336e5&format=json&nojsoncallback=1";
+var flickApiUrl2="https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=6666786bce494dccf35eaa99a53bd407&format=json&nojsoncallback=1";
 var flickrOptions={
     tags:"cat",
     text:"",
